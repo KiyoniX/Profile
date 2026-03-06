@@ -74,9 +74,7 @@
 <div>
   <a href="https://github.com/KiyoniX">
     <img alt="GitHub" src="https://img.shields.io/badge/-KiyoniX-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://discordapp.com/users/516302007020290048">
+  </a><a href="https://discordapp.com/users/51630200702290048">
     <img alt="Discord" src="https://img.shields.io/badge/-KionX-181717?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </div>
