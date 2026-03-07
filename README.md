@@ -78,8 +78,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/-KionX-181717?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/516302007020290048?idleMessage=Today%2C%20I%20don't%20feel%20like%20doin'%20anything%2C%20I%20just%20wanna%20lay%20in%20my%20bed&theme=dark&borderRadius=30px&animatedDecoration=true)](https://discord.com/users/516302007020290048)
+[![Discord Presence](https://lanyard.cnrad.dev/api/516302007020290048?bg=220c52&hideActivity=true&hideTimestamp=true)](https://discord.com/users/516302007020290048)
 
 ---
 
