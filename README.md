@@ -63,7 +63,7 @@
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's get in touch!
 
 <div>
   <a href="https://github.com/KiyoniX">
