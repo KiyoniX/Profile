@@ -27,7 +27,7 @@
 
 ## 🤔 What tools I'm learning how to use
 
-### 💻 Languages
+### 💿 Languages
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-### 🐧 OS & Administration
+### 🖥️ OS & Administration
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" alt="Debian" />
@@ -59,18 +59,6 @@
 <div>
   <img src="https://img.shields.io/badge/Godot-%23478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiyoniX&show_icons=true&theme=tokyonight&hide_border=true" alt="KiyoniX's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiyoniX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
