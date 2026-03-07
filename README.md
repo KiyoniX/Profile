@@ -9,23 +9,24 @@
 ## 🙋 About Me
 
 - 🔭 I'm currently working on my school projects
-- 🤓 I'm opened to any opportunity to grow as a dev
+- 🤓 I'm opened to *any* opportunity to grow as a dev
+- **🧭 Actually in search of an internship and/or a work-study program**
 
 ---
 
-## 😎 What tools I'm experienced with
+## 😎 What tools I'm **experienced** with
 
 ***404 Not found***
 
 ---
 
-## 😊 What tools I consider as Familliar
+## 😊 What tools I consider as **Familliar**
 
 ***404 Not found***
 
 ---
 
-## 🤔 What tools I'm learning how to use
+## 🤔 What tools I'm **learning** how to use
 
 ### 💿 Languages
 <div>
@@ -67,12 +68,14 @@
 <div>
   <a href="https://github.com/KiyoniX">
     <img alt="GitHub" src="https://img.shields.io/badge/-KiyoniX-181717?style=flat-square&logo=github&logoColor=white" />
-</div><a href="https://discord.com/users/516302007020290048"><img src="https://lanyard.cnrad.dev/api/516302007020290048?bg=220c52&idleMessage=AFK%F0%9F%A4%93%E2%98%9D%EF%B8%8F" /></a>
-
+</div><a href="https://discord.com/users/516302007020290048"><img src="https://lanyard.cnrad.dev/api/516302007020290048?bg=220c52&idleMessage=AFK%F0%9F%A4%93%E2%98%9D%EF%B8%8F" /></a><br>
+(I don't tend to add strangers so send me a message with the friend request please🙏)
+    
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KiyoniX&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Linktree-4506a7?style=flat&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Fkionx" alt="Badge">
 </p>
 
 ---
